@@ -27,4 +27,17 @@ This project analyzes COVID-19 data from Our World in Data to explore the pandem
 
 - plotly.express
 
+
+## MARKDOWN
+- The United States exhibited the highest total COVID-19 cases as of the latest data.
+
+- Several African countries show significantly lower vaccination rates compared to the global average.
+
+- The United States had the highest number of new cases, while Kenya had the least. 
+
+- The death rate, calculated as total deaths divided by total cases, ranges from about 1.1% to 2.5%, reflecting differences in healthcare, demographics, and reporting.
+
+- An anomaly was observed in India, where total vaccination numbers dropped sharply, likely due to reporting delays.
+
+- Vaccinated states showed lower case counts compared to unvaccinated states, suggesting vaccine effectiveness in reducing infections.
   
